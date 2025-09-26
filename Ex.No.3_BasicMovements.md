@@ -45,7 +45,8 @@ public class sampleExp1 : MonoBehaviour
 
 ```
 ### Output:
-<img width="560" height="178" alt="image" src="https://github.com/user-attachments/assets/562a81c3-86e3-41d2-aec1-dddcde5b6344" />
+<img width="1348" height="656" alt="image" src="https://github.com/user-attachments/assets/4d475398-1477-4125-8073-472a8281ffe3" />
+
 
 
 
