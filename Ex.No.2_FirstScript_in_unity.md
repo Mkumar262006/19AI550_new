@@ -38,6 +38,7 @@ public class FirstScript : MonoBehaviour
 !['output'](./Exps/Exp2/Screen%20Shot%201947-05-24%20at%2015.11.04.png)
 
 
+
 ### Result:
 Thus the welcome script was printed on Console Window  sucessfully.
 
