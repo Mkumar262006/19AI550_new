@@ -45,7 +45,8 @@ public class sampleExp1 : MonoBehaviour
 
 ```
 ### Output:
-!['output'](./Exps/Exp3/Screen%20Shot%201947-05-24%20at%2015.13.42.png)
+<img width="560" height="178" alt="image" src="https://github.com/user-attachments/assets/562a81c3-86e3-41d2-aec1-dddcde5b6344" />
+
 
 
 
