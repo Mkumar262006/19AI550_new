@@ -35,7 +35,8 @@ public class FirstScript : MonoBehaviour
 }
 ```
 ### Output:
-!['output'](./Exps/Exp2/Screen%20Shot%201947-05-24%20at%2015.11.04.png)
+<img width="560" height="178" alt="image" src="https://github.com/user-attachments/assets/b4376804-53b1-450a-92d2-e76bbebef57b" />
+
 
 
 
