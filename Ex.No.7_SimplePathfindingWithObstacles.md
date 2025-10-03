@@ -90,17 +90,9 @@ transform.position = startPos + new Vector3(movement, 0, 0);
 #### After Reaching Target:
 <img width="905" height="395" alt="image" src="https://github.com/user-attachments/assets/99f4cb26-161b-4cd6-b5bd-ba7b8b457223" />
 
-# Result:
+### Result:
 Thus the simple path finding behavior was implemented using AI navigation successfully.
 
 
 
 
-
-
-
-
-
-
-### Result:
-Thus the simple path finding  behavior was implemented using AI navigation successfully.
