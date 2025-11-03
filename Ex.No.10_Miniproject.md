@@ -204,8 +204,9 @@ public class PipeMoveScript : MonoBehaviour
 
 ```
 ## OUTPUT:
-<img width="400" height="250" alt="Screen Shot 1947-08-02 at 12 21 39" src="https://github.com/user-attachments/assets/6213fc90-740d-43c5-96eb-b200feccbc0a" />
-<img width="400" height="250" alt="Screen Shot 1947-08-02 at 12 22 16" src="https://github.com/user-attachments/assets/d2093518-929f-4ae6-bb42-d1a16c1b7080" />
+<img width="890" height="495" alt="Screenshot 2025-11-03 192447" src="https://github.com/user-attachments/assets/e8ece551-638c-4a55-bc94-bfe48c63f67b" />
+<img width="845" height="480" alt="Screenshot 2025-11-03 192456" src="https://github.com/user-attachments/assets/cd928fe5-55ef-4473-b42d-aa0f53631849" />
+
 
 ## RESULT:
 Thus, the 2D Chase Escape game was successfully developed using Unity and adopted AI-based path-following and finite state machine (FSM) technology to simulate intelligent enemy behavior.
