@@ -209,5 +209,5 @@ public class PipeMoveScript : MonoBehaviour
 
 
 ## RESULT:
-Thus, the 2D Chase Escape game was successfully developed using Unity and adopted AI-based path-following and finite state machine (FSM) technology to simulate intelligent enemy behavior.
+Thus, flappy bird game is done successfully.
 
